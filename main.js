@@ -32,3 +32,10 @@ const images = [
     }
  ];
  
+
+ //variabili globale
+
+ const leftSlider = document.getElementById("left-slider");
+const rightSlider = document.getElementById("right-slider");
+const infoTitle = document.getElementById("info-title");
+const infoText = document.getElementById("info-text");
